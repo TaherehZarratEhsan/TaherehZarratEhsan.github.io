@@ -9,9 +9,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Radboud universitair medisch centrum</p>
+    <p>P.O.Box 9101, 6500 HB Nijmegen</p>
+    <p>Reinier Postlaan 4 (route 914)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
