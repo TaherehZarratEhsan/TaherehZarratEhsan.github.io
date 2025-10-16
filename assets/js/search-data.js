@@ -504,6 +504,13 @@ ninja.data = [{
           window.open("mailto:%74%61%68%65%72%65%68.%7A%61%72%72%61%74%65%68%73%61%6E@%72%61%64%62%6F%75%64%75%6D%63.%6E%6C", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/TaherehZarratEhsan", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
